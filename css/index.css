@@ -1,0 +1,53 @@
+body {
+background-color: #####EDEEEC;
+position: absolute;
+top: 30px;
+left: 30px;
+right: 30px;
+bottom: 30px;
+border: 50px;
+}
+h1 {
+  font-size: 3.2vw;
+  font-family:Helvetica;
+  
+  
+}
+h2 {
+  font-size: 3.0vh;
+  font-family:Helvetica;
+  
+  
+}
+h3 {
+  font-size: 3.0vh;
+  font-family:Helvetica;
+  
+  
+}
+h4 {
+  font-size: 2.8vh;
+  font-family :Helvetica;
+  
+  
+}
+h5 {
+  font-size: 1.8vh;
+  font-family:Helvetica;
+  
+}
+h6 {
+  font-size: 3.0vmin;
+  font-family:Helvetica;
+}
+p {
+  font-family:Helvetica;
+ 
+}
+.myfooter {
+    text-align: center;
+}
+
+.myDiv {
+  text-align: left;
+}
